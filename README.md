@@ -42,4 +42,5 @@ Este proyecto presenta un análisis completo de las ventas de un supermercado du
 # Autor
 Análisis realizado por: Javier Reitano  
 Contacto: javireitano@gmail.com
+
 Proyecto realizado como práctica personal de análisis de datos.
