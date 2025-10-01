@@ -14,7 +14,7 @@ Este proyecto presenta un análisis completo de las ventas de un supermercado du
 - Python
 - Pandas
 - Matplotlib
-- Seaborn
+- Seaaborn
 - Jupyter Notebook
 
 # Principales Análisis Realizados
